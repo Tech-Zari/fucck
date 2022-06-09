@@ -1,0 +1,2 @@
+import uzair
+uzair.main()
