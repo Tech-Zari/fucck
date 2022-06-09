@@ -1,2 +1,2 @@
-import uzair
-uzair.main()
+import mehar
+mehar.main()
