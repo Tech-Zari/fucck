@@ -1,6 +1,8 @@
-# fucck-Uzair😜
+# Bypass 😜
 
 # COMMAND
+```python
+
 pkg update
 
 pkg upgrade
@@ -23,4 +25,4 @@ git clone https://github.com/Tech-Zari/fucck
 
 cd fucck
 
-python bypas.py
+python bypass.py
